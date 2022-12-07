@@ -16,7 +16,7 @@
     "body-parser": "^1.17.2",
     "concurrently": "^5.0.0",
     "cors": "^2.8.5",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "express-promise-router": "^2.0.0",
     "joi": "^10.6.0",
     "jsonwebtoken": "^7.4.1",
